@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hondaoto/static/css/main.e18f8869.css",
-    "main.js": "/hondaoto/static/js/main.62da5667.js",
+    "main.js": "/hondaoto/static/js/main.54cef1d5.js",
     "static/js/651.ab7e9f69.chunk.js": "/hondaoto/static/js/651.ab7e9f69.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/hondaoto/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/hondaoto/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -11,11 +11,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/hondaoto/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/hondaoto/index.html",
     "main.e18f8869.css.map": "/hondaoto/static/css/main.e18f8869.css.map",
-    "main.62da5667.js.map": "/hondaoto/static/js/main.62da5667.js.map",
+    "main.54cef1d5.js.map": "/hondaoto/static/js/main.54cef1d5.js.map",
     "651.ab7e9f69.chunk.js.map": "/hondaoto/static/js/651.ab7e9f69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e18f8869.css",
-    "static/js/main.62da5667.js"
+    "static/js/main.54cef1d5.js"
   ]
 }
